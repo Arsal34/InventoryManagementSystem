@@ -10,7 +10,7 @@ Salient Features:
 2) New items can be added and removed.
 3) New users can be added and removed.
 4) Items can be issued with a certain timeline
-5) Fines are added and displayed in case of overdues
+5) Fines are added and displayed in case of overdues.
 
 Installation and compilation instructions:
 1) End user can use the index.html file in the folder.
